@@ -15,9 +15,16 @@
 
 ### Week 2
 - [x] Lec 04
-- [ ] Lec 05
-- [ ] Lec 06
+- [x] Lec 05
+- [x] Lec 06
 - [ ] Lab 02
 - [ ] Hom 02
 
+### Week 3 
+- [ ] Lec 07
+- [ ] Lec 08
+- [ ] Lec 09
+- [ ] Lab 03
+- [ ] Hom 03
+- [ ] Pro 01
 ---
